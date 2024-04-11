@@ -1,10 +1,8 @@
 # GA-for-prediction-problem
-# Pro
-![image](https://github.com/Thien-mathematics/GA-for-prediction-problem/assets/116644640/86211e08-182f-4cc6-a958-347cf60d71ae)
-
-
-
-
+##  Problem Description
+- The problem of predicting sales revenue based on various marketing channels is a classic type of problem often used in teaching Machine Learning.
+- The dataset consists of 200 samples, each with 3 features, representing the amount of advertising spending on TV, Radio, and Newspaper. The sales value (revenue) is provided corresponding to the cost of the 3 marketing channels as illustrated in the following table:
+  ![image](https://github.com/Thien-mathematics/GA-for-prediction-problem/assets/116644640/86211e08-182f-4cc6-a958-347cf60d71ae)
 
 ## Genetic Algorithms
 
