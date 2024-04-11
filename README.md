@@ -1,4 +1,11 @@
 # GA-for-prediction-problem
+# Pro
+![image](https://github.com/Thien-mathematics/GA-for-prediction-problem/assets/116644640/86211e08-182f-4cc6-a958-347cf60d71ae)
+
+
+
+
+
 ## Genetic Algorithms
 
 Genetic Algorithms (GAs) are a powerful type of evolutionary algorithm, inspired by the processes of genetic inheritance and natural selection in the natural world.
