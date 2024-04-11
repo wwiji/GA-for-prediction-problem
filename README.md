@@ -14,4 +14,17 @@ The evolutionary process comprises three main stages:
 Genetic Algorithms offer an effective method for optimization and search problems, leveraging principles from nature to find optimal or near-optimal solutions across various domains.
 
 ## Implementing the algorithm
+- n: size individual
+- m: size population
+- n_generations: Number of generations
+- losses: save loss
 
+## Initialize the required calculation functions
+- generate_random_value(bound)
+- compute_fitness(individual)
+- compute_loss(individual)
+- create_individual()
+- crossover(individual1, individual2, crossover_rate =number_)
+- mutate(individual, mutation_rate = number):
+- selection(sorted_old_population)
+- create_new_population(old_population, elitism=2, gen=1):
