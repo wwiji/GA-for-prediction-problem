@@ -13,4 +13,5 @@ The evolutionary process comprises three main stages:
 
 Genetic Algorithms offer an effective method for optimization and search problems, leveraging principles from nature to find optimal or near-optimal solutions across various domains.
 
-## GA-for-prediction
+## Implementing the algorithm
+
