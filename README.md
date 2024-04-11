@@ -12,3 +12,5 @@ The evolutionary process comprises three main stages:
 -  Mutation: A random process of altering the genetic information of an individual, aimed at exploring broader regions of information.
 
 Genetic Algorithms offer an effective method for optimization and search problems, leveraging principles from nature to find optimal or near-optimal solutions across various domains.
+
+## GA-for-prediction
