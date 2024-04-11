@@ -25,6 +25,13 @@ Genetic Algorithms offer an effective method for optimization and search problem
 - compute_loss(individual)
 - create_individual()
 - crossover(individual1, individual2, crossover_rate =number_)
-- mutate(individual, mutation_rate = number):
+- mutate(individual, mutation_rate = number)
 - selection(sorted_old_population)
-- create_new_population(old_population, elitism=2, gen=1):
+- create_new_population(old_population, elitism=2, gen=1)
+
+## Train
+- Initial Population
+- Fitness function
+- Selection
+- Cross-over
+- Mutation
